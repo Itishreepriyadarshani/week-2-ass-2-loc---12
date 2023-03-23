@@ -5,7 +5,7 @@ void main()
     printf("enter elements for 1st array:");
     for(i=0;i<3;i++)
     {
-        scanf("%d"&a[i]);
+        scanf("%d",&a[i]);
     }
     printf("enter elements for 2nd array:");
     for(i=0;i<3;i++)
